@@ -11,7 +11,5 @@ Number of 'Yes' recommended stocks = 16 ; number of wrong predictions = 3
 
 Number of 'No' recommended stocks = 20 ; number of wrong predictions = 8
 
-Predicted Returns = 42.10 %    ;  Actual returns = 34.40 %
-
 ### Final Thoughts 
 The model can still be made more efficient and it requires a lot more testing  before reaching any conclusions. 
